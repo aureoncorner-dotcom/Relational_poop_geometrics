@@ -1,0 +1,42 @@
+# Gradient Condensation Model - Research Summary
+**Date:** February 26, 2026
+
+## Core Hypothesis
+Anomalous material compositions preferentially precipitate at geomagnetic field gradient boundaries (VB max) rather than at field nodes or nulls.
+*Principle:* Phase transitions in physical systems occur at boundaries, not in the bulk. This model proposes the same applies to exotic geochemical deposition driven by electromagnetic field shear.
+
+## Supporting Correlations
+| Site/Event                          | Magnetic Feature                                      | Status/Observation                                                                 |
+|-------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------|
+| IM1 spherules (BeLaU signature)     | Magnetic equator (0° dip boundary)                    | Fireball center 33 km from 0° dip line; spherules clustered non-uniformly in runs 4, 13, 14. |
+| Carbonado diamonds (CAR & Brazil)   | Bangui Anomaly ring edge (VB max boundary)            | La and U confirmed anomalous in pore chemistry; Be never measured.                |
+| Navy UAP sightings (VACAPES)         | East Coast Magnetic Anomaly shelf break              | Persistent clustering along ECMA boundary (Gimbal, GoFast 2015).                     |
+
+## Critical Open Question: Beryllium in Carbonado
+**Context:** Carbonado pore chemistry is well-studied for U, Th, and REEs (e.g., La), but **Beryllium (Be) has never been measured**.
+**Gap Analysis:** Likely a methodological gap—Be was not targeted before the BeLaU triplet was recognized.
+
+## Element Comparison Table
+| Element       | IM1_S21 Enrichment | Carbonado Pore Enrichment | Match?   |
+|---------------|--------------------|---------------------------|----------|
+| Lanthanum (La)| Highly enriched    | Confirmed enriched        | YES      |
+| Uranium (U)   | Highly enriched    | Confirmed enriched        | YES      |
+| Beryllium (Be)| Up to 1000x solar  | **NEVER MEASURED**        | UNKNOWN  |
+
+## Falsification Criteria
+1. **If Be is anomalously enriched (10x–1000x crustal background):** Supports the Gradient Condensation Model.
+2. **If Be is at normal crustal levels (<2 ppm):** Suggests hydrothermal processes as the primary explanation.
+
+## Methodology
+- **Current Framework:** Lomb-Scargle periodogram with phase-randomized surrogate testing.
+- **Next Target:** Solar activity indicators (F10.7, Kp index, solar wind velocity) across cycles 23–25.
+
+## Key References
+1. Loeb, A. et al. (2024). *Chemical Geology* – IM1 spherule classification.
+2. Magee, C.W. (2016). *Smithsonian Institution* – Uranium irradiation history of Carbonado.
+3. Afanasiev, V. et al. (2024). *Minerals* – Origin of Carbonado.
+4. Eckley, S.A. & Ketcham, R.A. (2019). *Frontiers in Earth Science* – 4D imaging of Carbonado dissolution.
+
+---
+**License:** CC0 (Public Domain)
+**Note:** This work is intentionally anonymous. Contributions, critiques, and forks are welcome.
