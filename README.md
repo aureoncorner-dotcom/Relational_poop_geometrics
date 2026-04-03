@@ -10,3 +10,9 @@
 ![ZPRInteraction](Screenshot_20260403_051029_Claude.jpg)
 
 
+# CC0-1.0 — Public Domain Dedication
+# No rights reserved. You may use, modify, and distribute this work
+# for any purpose, without permission or attribution.
+# Distributed without warranty.
+
+
