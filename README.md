@@ -4,10 +4,9 @@
 
 ![ZPR Diagram](file_00000000ab08722f9576cc85477ca535.png)
 
-> The diagram shows how the room works, without making anyone required.
+![ZPR Diagram](file_00000000091c722fb6fa27130b05e7a6.png)
 
 ![ZPRInteraction](file_00000000a4ec722fac38a965cf2ebc98.png)
-
 
 ![ZPRInteraction](file_000000001840722f91ad2297fe89f955.png)
 
