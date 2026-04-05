@@ -2,7 +2,7 @@
 
 ![ZPR FULL](file_00000000b424722f8fee27bb685d9c86.png)
 
-![ZPR Diagram](file_00000000c03071f5a7c7d5480b8249c5.png)
+![ZPR Diagram](file_00000000ab08722f9576cc85477ca535.png)
 
 > The diagram shows how the room works, without making anyone required.
 
