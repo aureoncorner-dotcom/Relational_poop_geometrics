@@ -9,7 +9,7 @@
 ![ZPRInteraction](Screenshot_20260403_051401_ChatGPT.jpg)
 
 
-![ZPRInteraction](Screenshot_20260403_051029_Claude.jpg)
+![ZPRInteraction](file_000000001840722f91ad2297fe89f955.png)
 
 
 # CC0-1.0 — Public Domain Dedication
