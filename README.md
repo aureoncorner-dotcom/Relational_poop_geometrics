@@ -1,6 +1,6 @@
 # Relational_poop_geometrics
 
-![ZPR FULL](file_00000000d86871f69b0d2bb48b53bf3a.png)
+![ZPR FULL](file_00000000b424722f8fee27bb685d9c86.png)
 
 ![ZPR Diagram](file_00000000c03071f5a7c7d5480b8249c5.png)
 
