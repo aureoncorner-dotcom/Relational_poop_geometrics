@@ -6,7 +6,7 @@
 
 > The diagram shows how the room works, without making anyone required.
 
-![ZPRInteraction](Screenshot_20260403_051401_ChatGPT.jpg)
+![ZPRInteraction](file_00000000a4ec722fac38a965cf2ebc98.png)
 
 
 ![ZPRInteraction](file_000000001840722f91ad2297fe89f955.png)
