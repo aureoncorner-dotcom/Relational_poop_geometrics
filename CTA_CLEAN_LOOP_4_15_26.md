@@ -24,7 +24,7 @@ Coherence depends on alignment across all domains.
 If any term → 0, coherence → 0.
 4. Loop Condition (see: Loop Reader)
 When interaction feeds back:
-O → R → S → T → R → S → O
+O → R → S → T → S → R → O
 Interaction may return and update origin.
 This is a cycle, not a hierarchy.
 T reflects delay, persistence, and return path integrity.
