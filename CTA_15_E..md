@@ -21,7 +21,8 @@ introduces no new ontology beyond validation structure
 
 It documents when a system’s internal or external analysis reproduces existing reflex geometry without contradiction.
 
-
+CIRV does not imply the underlying model is complete or correct.
+It indicates only reproducibility of observed structure.
 ---
 
 DEFINITIONS
