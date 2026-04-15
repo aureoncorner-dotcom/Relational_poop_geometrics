@@ -15,22 +15,25 @@ No domain is required.
 2. Interaction Rule
 Interaction(O, S) ⊆ R
 Interaction between origin and structure happens through relation.
-Direct O ↔ S coupling is limited and unstable.
+Direct O ↔ S coupling produces control behavior and degrades over time.
 3. Base Coherence
 C ∝ O × R × S × T
 C — coherence (stability / usability)
 T — persistence / time
 Coherence depends on alignment across all domains.
+If any term → 0, coherence → 0.
 4. Loop Condition (see: Loop Reader)
 When interaction feeds back:
 O → R → S → T → R → S → O
 Interaction may return and update origin.
 This is a cycle, not a hierarchy.
+T reflects delay, persistence, and return path integrity.
 5. What holds (party-stable / BYOV)
 These remain true under all readings:
 No crown
 No chains
 R is in the room, not the room
+R is present but not required
 Replaceability is required
 Participation is voluntary
 If it only works under fixed inputs:
@@ -45,12 +48,14 @@ Interaction can return without distortion
 Bypass → O → S (no mediation)
 Pinch → R too narrow
 Capture → R becomes authority
+Time collapse → interaction forced before integration
 These reduce coherence over time.
 8. What this is not
 Not a law
 Not a doctrine
 Not a required model
 Not a claim of correctness
+Not required for interaction to occur
 It is a tool.
 9. How to use
 Start simple
