@@ -76,7 +76,7 @@ This is a cycle, not a hierarchy.
 T reflects delay, persistence, and return-path integrity.
 
 Extended path (optional):
-O → R → S → T → R → S → O
+O → R → S → T → S→ R → O
 Use only when additional structure passes are needed.
 
 
