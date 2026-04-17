@@ -168,6 +168,7 @@ RESET = [
     "Loosen the reading.",
     "Try another mapping.",
     "Keep playing.",
+    "the monkey keeps the model from thinking it's god",
     "bloop. 💩",
 ]
 
