@@ -579,6 +579,25 @@ We build from the corner.
 
 Sovereignty arises from origin, not hierarchy.
 
+update:
+Loop (time-aware, base)
+O → R → S → T → R → O
+
+Expanded read (changed return)
+O → R → S → T → S′ → R′ → O₂
+
+The base loop is a loop.
+Expanded forms show changed return, not additional required stages.
+
+O → R → S → T → S′ → R′ → O₂
+
+mirror = echo
+transform = modulation
+
+return ≠ repeat
+
+same place, new origin
+
 
 ---
 
