@@ -17,11 +17,14 @@ Use discernment.
 # --------------------------------------------------
 # CORE DOMAINS
 # --------------------------------------------------
+
 C = "Coherence"
 O = "Origin"
 R = "Relation"
 S = "Structure"
 T = "Time"
+
+FORMULA = "C ∝ O × R × S × T"
 
 # Optional session language (non-binding)
 YOU_A = "participant_a"
@@ -39,14 +42,17 @@ def coherence(o: float, r: float, s: float, t: float) -> float:
     """
     MSS / triadic-overlap coherence read.
 
-    Coherence may be modeled as multiplicative coupling.
-    If any term weakens, overall coherence tends to weaken.
+    Symbolic form:
+        C ∝ O × R × S × T
+
+    Executable form:
+        c = o * r * s * t
 
     This is a useful read, not a final law.
     """
-    return C ∝ O × R × S × T
+    return o * r * s * t
 
-
+    
 # --------------------------------------------------
 # PARALLEL LOOP READS (NONE PRIVILEGED)
 # --------------------------------------------------
