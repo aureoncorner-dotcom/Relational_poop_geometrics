@@ -17,7 +17,7 @@ Use discernment.
 # --------------------------------------------------
 # CORE DOMAINS
 # --------------------------------------------------
-
+C = "Coherence"
 O = "Origin"
 R = "Relation"
 S = "Structure"
@@ -44,7 +44,7 @@ def coherence(o: float, r: float, s: float, t: float) -> float:
 
     This is a useful read, not a final law.
     """
-    return o * r * s * t
+    return C ∝ O × R × S × T
 
 
 # --------------------------------------------------
