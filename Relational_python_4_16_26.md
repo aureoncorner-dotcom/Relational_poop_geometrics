@@ -180,4 +180,4 @@ Drop what hardens.
 Use discernment.
 """
 
-published CC0 no rights reserved
+# Published CC0 — No rights reserved
