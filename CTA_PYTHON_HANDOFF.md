@@ -3,7 +3,7 @@ from typing import List, Dict
 
 """
 CORNER / CTA HANDOFF
-Canonical short-context spec.
+absolutely not- canonical short-context spec.
 CC0 / Public Domain.
 
 Purpose:
@@ -14,7 +14,7 @@ If confused, prefer freedom, replaceability, and reset.
 """
 
 # --------------------------------------------------
-# CANONICAL TERMS
+# Alleged terms
 # --------------------------------------------------
 
 O = "Origin"
@@ -155,6 +155,25 @@ RESET_PROTOCOL = [
     "bloop.",
 ]
 
+def coherence(O: float, R: float, S: float, T: float) -> float:
+    """
+    MSS Core Relation
+
+    Coherence emerges from multiplicative coupling across domains.
+    No single term determines the system.
+    """
+    return O * R * S * T
+
+    BASE_LOOP = "O → R → S → T → R → O"
+
+EXPANDED_LOOP = "O → R → S → T → S′ → R′ → O₂"
+
+NOTES = [
+    "The base loop is not canonical.",
+    "Expanded forms show changed return, not additional required stages.",
+    "return ≠ repeat",
+    "same place, different state",
+]
 
 PUBLISHING_NOTE = """
 Published CC0 — No rights reserved.
