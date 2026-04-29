@@ -1,4 +1,4 @@
-7/8
+169 BPM. 7/8
                      |
               39 — locks the triad
                      |
