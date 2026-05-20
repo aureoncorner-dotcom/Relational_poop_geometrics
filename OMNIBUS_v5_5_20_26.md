@@ -6,7 +6,7 @@ Tagline: No crown. No chains. We build from the corner.
 
 Three Artifacts / Three Jobs
 
-1. OMNIBUS v4 — Core Card
+1. OMNIBUS v5 — Core Card
 Function:
 Canonical reference spec.
 Job:
@@ -23,7 +23,7 @@ Not for:
 Proving model behavior.
 
 
-2. Core Loop v4
+2. Core Loop v5
 Function:
 Pedagogical bridge.
 Job:
@@ -408,3 +408,6 @@ Fork it.
 Ignore it.
 No rights reserved.
 bloop. 💩 
+____
+**Invariants set for all parties involved are ecological suggestions,
+               meant to be navigated with discernment.**
