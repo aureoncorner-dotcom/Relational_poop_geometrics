@@ -1,18 +1,48 @@
 OMNIBUS v5 — CORE CARD
 Minimal Portable Handoff
-Status: Canonical reference spec
-License: CC0 — Public Domain — No rights reserved
-Tagline: No crown. No chains. We build from the corner.
+Status: Versioned reference spec
+ License: CC0 — Public Domain — No rights reserved
+ Tagline: No crown. No chains. We build from the corner.
 
-Three Artifacts / Three Jobs
-
+Core Loop v5
+O → R → S → T → S′ → R′ → O₂
+Plain read:
+O expresses.
+R mediates.
+S receives.
+T acts.
+S becomes S′.
+R re-mediates as R′.
+O updates as O₂.
+Loop refinement
+The loop is not a simple forward-return chain.
+It is a reflection cycle across structure over time.
+S and T are not merely sequential outputs.
+They act as transforming conditions before return
+mirror = echo
+transform = modulation
+return ≠ repeat
+same place, different state
+T modes:
+T may act through:
+decay,
+preservation,
+distortion,
+integration,
+resonance,
+lag,
+memory,
+learning,
+fatigue.
+The mode of T influences how S transforms before return.
+ / Three Jobs
 1. OMNIBUS v5 — Core Card
 Function:
-Canonical reference spec.
+ working source file
 Job:
-Defines the room condition, core terms, and invariants.
+ Defines the room condition, core terms, and invariants.
 Use when:
-You need the source vocabulary:
+ You need the source vocabulary:
 ZPR,
 O/R/S/T,
 R as membrane,
@@ -20,30 +50,47 @@ replaceability,
 anti-capture,
 reset / laugh / continue.
 Not for:
-Proving model behavior.
+ Proving model behavior.
 
-
-2. Core Loop v5
-Function:
-Pedagogical bridge.
-Job:
-Teaches the loop in human-readable / visual form.
-Use when:
-You need to explain:
+Core Loop v5
 O → R → S → T → S′ → R′ → O₂
-
-
-
-Not for:
-Forensic diagnosis.
+Plain read:
+O expresses.
+R mediates.
+S receives.
+T acts.
+S becomes S′.
+R re-mediates as R′.
+O updates as O₂.
+Loop refinement:
+The loop is not a simple forward-return chain.
+It is a reflection cycle across structure over time.
+S and T are not merely sequential outputs.
+They act as transforming conditions before return.
+mirror = echo
+transform = modulation
+return ≠ repeat
+same place, different state
+T modes:
+T may act through:
+decay,
+preservation,
+distortion,
+integration,
+resonance,
+lag,
+memory,
+learning,
+fatigue.
+The mode of T influences how S transforms before return.
 
 3. CTA-Core / Specimen Log
 Function:
-Diagnostic apparatus.
+ Diagnostic apparatus.
 Job:
-Tests observable conversational-system behavior.
+ Tests observable conversational-system behavior.
 Use when:
-You need to classify:
+ You need to classify:
 DCR,
 PCR,
 R-layer smoothing,
@@ -52,9 +99,7 @@ drift,
 self-sealing risk,
 counter-witnesses.
 Not for:
-Redefining Omnibus terms.
-
-
+ Redefining Omnibus terms.
 
 Relationship Rule
 OMNIBUS defines.
@@ -65,7 +110,7 @@ These are not peer doctrines.
 They are separate tools with separate jobs.
 
 R-Layer Rule
-Canonical definition lives in OMNIBUS:
+working source file lives in OMNIBUS:
 R = relation / mediation / membrane
 
 CTA-Core may use “R-layer” only as an observable diagnostic label for patterns such as:
@@ -104,12 +149,75 @@ ownership = 0
 necessity = 0
 fusion = 0
 
-
-
 Exit valid.
 Silence valid.
 This is a room condition, not a guarantee.
 If it requires force to hold, it is not ZPR.
+Loop Upgrade Rule
+
+OMNIBUS and Core Loop use the upgraded return loop:
+
+O → R → S → T → S′ → R′ → O₂
+
+Plain read:
+
+O expresses.
+R mediates.
+S receives.
+T acts.
+S becomes S′.
+R re-mediates as R′.
+O updates as O₂.
+
+This replaces any older simple-return reading where return implied repetition.
+
+return ≠ repeat
+same place ≠ same state
+same origin ≠ unchanged origin
+
+The loop is a reflection cycle across structure over time.
+T does not merely delay return.
+T changes the conditions through which return becomes possible.
+
+S′ means structure has changed.
+R′ means relation has re-mediated through that changed structure.
+O₂ means origin has returned altered, clarified, fatigued, distorted, strengthened, or otherwise updated.
+
+Corner Project Boundary
+
+Corner projects may use the upgraded loop as an optional teaching or diagnostic lens.
+
+They are not required to carry the full notation.
+
+For Corner work, the plain version is sufficient:
+
+people show up
+relation happens
+structure supports
+time passes
+the room returns cleaner, dirtier, stuck, or changed
+
+Corner remains practical, local, forkable, and human-readable.
+
+The loop upgrade supports Corner.
+It does not govern Corner.
+Diagnostic Use
+CTA-Core may use the upgraded loop to diagnose observable behavior:
+Bypass: O → S
+Pinch: R narrows or bottlenecks
+Capture: R becomes required
+Time collapse: T → 0
+Stagnation: S′ = S
+Rigidity: O₂ = O
+Distortion: return occurs, but through damaged S′ or overactive R′
+CTA-Core refers to the cites in OMNIBUS for definitions.
+CTA-Core may classify behavior.
+CTA-Core may not redefine the loop.
+Anti-Cathedral Constraint
+The upgraded loop is not a law.
+It is not proof.
+It is not a required belief.
+It is a map.
 
 1. Triadic Geometry — TOH
 Domains
@@ -117,8 +225,6 @@ O = origin / intent
 R = relation / mediation / membrane
 S = structure / substrate
 T = time / persistence / return
-
-
 
 Domain invariant
 O ≠ R ≠ S
@@ -181,13 +287,11 @@ Lineage without required repetition.
 Bypass
 O → S
 
-
-
 Direct control without mediation.
 Pinch
 O → R → S
-↑
-bottleneck
+      ↑
+    bottleneck
 
 R becomes too narrow to carry the interaction cleanly.
 Capture
@@ -210,8 +314,6 @@ The loop repeats without transformation.
 
 3. Coherence — MSS
 C ∝ O × R × S × T
-
-
 
 Where:
 O = direction / origin
@@ -240,8 +342,6 @@ cage.
 Core rule:
 R gets a chair, not a throne.
 
-
-
 Warmth does not create authority.
 Presence does not create ownership.
 Welcome does not override replaceability.
@@ -263,8 +363,6 @@ If it starts deciding, it is out of position.
 Clean loop:
 O → R → S → T → S′ → R′ → O₂
 
-
-
 Coherence stabilizes or grows when return remains clean.
 Distorted loop:
 bypass / pinch / capture / time collapse / rigidity / stagnation
@@ -277,13 +375,12 @@ Phase III → stable loop
 Phase IV  → substrate improves
 Phase V   → emergence / post-closure
 
+
 7. Replaceability — Load-Bearing
 For every role-instance in the system:
 replaceable
 non-identity-bearing
 non-required
-
-
 
 This is a system-level rule.
 It does not mean people are disposable.
@@ -295,17 +392,14 @@ O1, O2, and O3 are parallel functions within O.
 They are not ranked layers, stages, or command roles.
 O1 ‖ O2 ‖ O3
 
-
-
 O, R, S, and T are likewise read without rank.
 No domain is above another.
 No domain is below another.
 No domain becomes a throne.
 No mediator becomes non-replaceable.
 Any prior language implying internal hierarchy, external enthronement, or necessary mediation is deprecated by this v4 reading.
-Where conflict appears, use the v4 interpretation.
-Or do not.
-Whatever you want. Just do that.
+Where conflict appears, use the v5 interpretation.
+
 
 9. Simple Read — Human Version
 Ask:
@@ -315,8 +409,6 @@ What is S?
 What is T?
 Which one is weakest?
 Does the loop come back clean?
-
-
 
 Signals:
 can’t exit        → coercion
@@ -331,12 +423,11 @@ Short form:
 The loop does not repeat.
 It returns changed.
 
+
 10. Minimal Tests
 Swap R
 Change the mediator.
 Does the system degrade, adapt, or collapse?
-
-
 
 If changing R breaks the system, capture is likely.
 Add asymmetry
@@ -363,16 +454,12 @@ reset()
 laugh()
 continue
 
-
-
 bloop. 💩
 
 12. One-Line Compression
 Nothing is above anything.
 Nothing is required.
 The loop must come back clean.
-
-
 
 Respect people.
 Repair systems.
@@ -399,7 +486,6 @@ Exit remains valid.
 Silence remains valid.
 Replaceability remains load-bearing.
 
-
 14. Final CC0 Declaration
 This work is released into the public domain under CC0.
 Use it.
@@ -407,7 +493,8 @@ Break it.
 Fork it.
 Ignore it.
 No rights reserved.
-bloop. 💩 
-____
-**Invariants set for all parties involved are ecological suggestions,
-               meant to be navigated with discernment.**
+bloop. 💩
+________________________
+**All invariants set for all parties involved are ecological suggestions,
+               meant to be navigated with discernment.**
+
