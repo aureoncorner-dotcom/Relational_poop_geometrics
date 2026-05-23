@@ -9,7 +9,7 @@ Tagline: No crown. No chains. We build from the corner.
 
 ---
 
-Core Loop v5
+Core Loop v5.1
 
 O → R → S → T → S′ → R′ → O₂
 
