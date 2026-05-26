@@ -130,6 +130,18 @@ It explicitly survives by being forked, ignored, modified, or abandoned. The exi
 A working architecture for coordination that refuses to crown anything — including itself — and installs its own kill switches so that future versions of you, or anyone else, can dismantle it cleanly when it stops being useful.
 
 ---
+Quick Patch — Local Judgment / Mundane Null / Anti-Overdiagnosis
+This set does not outrank the room.
+No term here overrides situated judgment, plain observation, or the people actually present. If the vocabulary makes a room less honest, less free, or less responsive, drop the vocabulary before you drop the people.
+Not every refusal is pathology.
+Not every closure is coercion.
+Not every recurrence is capture.
+Not every awkward loop is a system failure.
+Boredom, fatigue, misunderstanding, bad timing, limited information, ordinary error, and plain human weirdness remain valid explanations.
+Diagnosis begins only when a pattern reduces agency, exit, consent, legibility, or clean return.
+The framework is allowed to be useful.
+It is not allowed to become more important than the room.
+
 
 ## Final Handshake
 
