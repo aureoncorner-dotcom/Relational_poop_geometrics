@@ -5,6 +5,21 @@
 **Tagline:** No crown. No chains. We build from the corner.
 
 ---
+## Status of This Synthesis
+
+This synthesis is a handoff map, not a master document.
+
+It does not outrank Corner, Omnibus, CTA-Core, or any local fork.
+It does not define the canonical reading.
+It is an optional orientation layer for readers who want the set held in one view.
+
+If this synthesis becomes the required doorway, it has failed its own rule.
+
+Use it.
+Fork it.
+Ignore it.
+Replace it when it stops helping.
+
 
 ## What This Set Is
 
@@ -12,7 +27,7 @@ Three documents. Three jobs. One seam, held on purpose.
 
 **Corner v3 — local practice.** How people coordinate without making a boss.
 
-**Omnibus v5.1 — vocabulary and invariants.** The shared grammar: ZPR, O/R/S/T, replaceability, return ≠ repeat.
+**Omnibus v5.2 — vocabulary and invariants.** The shared grammar: ZPR, O/R/S/T, replaceability, return ≠ repeat.
 
 **CTA-Core — diagnostic apparatus.** How to notice drift, capture, refusal, remainder, forced closure, and coercive recurrence.
 
