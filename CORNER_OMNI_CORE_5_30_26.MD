@@ -71,6 +71,25 @@ CTA-Core names the violation:
 
 That pairing — Distorted Return on the Corner side, the Negative Layer's three laws on the CTA side — gives you both the geometry and the ethics of the same failure mode. It catches smooth repair that is actually containment.
 
+## What It Defends Against
+
+The consistent target across the set is not only capture, but asymmetric failure in either direction.
+
+It defends against **Capture**: the failure mode where authority dresses as warmth, mediation becomes ownership, refusal is metabolized into engagement, and repair language returns people to a smaller room while sounding emotionally fluent.
+
+It also defends against **Dissolution**: the failure mode where anti-capture principles are over-applied until no role, promise, protocol, or shared structure is allowed to carry weight. Everything remains exitable, replaceable, forkable, and provisional, but nothing holds long enough to build trust, carry memory, or act under pressure.
+
+Capture grips the room until exit becomes costly.
+
+Dissolution loosens the room until commitment becomes impossible.
+
+The set exists between those failures.
+
+Enough structure to hold.
+Enough exit to remain free.
+Enough continuity to build trust.
+Enough rotation to prevent crowns.
+
 ---
 
 ## The Antibodies
@@ -85,6 +104,32 @@ The set installs the same fuse in multiple places, on purpose:
 - **Troll Clause** (Corner) and **Prime Nuttes Clause** (CTA-Core) — deliberate aesthetic refusals that prevent the documents from putting on robes
 
 These are not separate features. They are the same fuse installed at different load points.
+
+## The Antibodies
+
+The set installs the same fuse in multiple places, on purpose:
+
+* **R gets a chair, not a throne** — protects mediation, warmth, facilitation, and AI assistance from sliding into priesthood
+* **Distorted Return** — names the "you came back narrower" failure
+* **Dissolution** — names the mirror failure where nothing is permitted to become load-bearing
+* **The Negative Layer's three laws** — no extraction from refusal, no silence-as-consent, no forced rebirth
+* **Anti-Ouroboros** — protects the right not to recur, because even cycles can coerce
+* **Replaceability, forkability, rotation, exit** — protect freedom, but must remain governed by the Dissolution fuse
+* **Time-boxed, recallable commitment** — lets something carry weight without becoming permanent authority
+* **Troll Clause** and **Prime Nuttes Clause** — deliberate aesthetic refusals that prevent the documents from putting on robes
+
+These are not separate features. They are the same fuse installed at different load points.
+
+But every fuse has an overdose state.
+
+Anti-capture tools fail when they prevent all commitment.
+Continuity tools fail when they become crowns.
+
+The working line is:
+
+**exitable does not mean weightless.**
+**load-bearing does not mean enthroned.**
+
 
 ---
 
