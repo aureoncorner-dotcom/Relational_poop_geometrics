@@ -1,4 +1,4 @@
-# The Corner / Omnibus / CTA-Core Set — Final Draft Synthesis
+# The Corner / Omnibus / CTA-Core Set (older)
 
 **Status:** Working reference set, v3 / v5.1 / current
 **License:** CC0 — Public Domain — No rights reserved
