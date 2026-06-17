@@ -2,7 +2,7 @@
 
 **Short Version – Core Document**
 
-This document does not claim that all institutions are malicious. The working estimate is 97%, a generous prime. Not all specialization is corrupt, and not all religious priesthoods function identically. The concern here is a recurring tendency within systems of power: the conversion of living reality into administered form.
+This document does not claim that all institutions are malicious. The working estimate is 97% (exaggeration obviously), a generous prime. Not all specialization is corrupt, and not all religious priesthoods function identically. The concern here is a recurring tendency within systems of power: the conversion of living reality into administered form.
 
 #### Introduction
 
