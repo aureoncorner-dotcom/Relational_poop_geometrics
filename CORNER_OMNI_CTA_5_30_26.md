@@ -72,7 +72,36 @@ Continuity tools fail when they become crowns.
 The working line is:
 Exitable does not mean weightless.
 Load-bearing does not mean enthroned.
+Note: ORSTSRO Can Also Regress
 
+The ORSTSRO loop should not be treated as inherently progressive.
+
+O → R → S → T → S′ → R′ → O₂ describes return through changed conditions. It does not guarantee improvement.
+
+Return ≠ progress.
+
+Same place ≠ same state.
+
+Same origin ≠ healed origin.
+
+If the system returns through unresolved trauma, coercion, hidden debt, role capture, false repair, or damaged mediation, then O₂ may be smaller, more constrained, or more distorted than O.
+
+In that case, the loop has not produced integration.
+
+It has produced regression.
+
+Progressive return:
+The loop increases room, clarity, agency, repair, and usable relation.
+
+Regressive return:
+The loop returns the subject/system to origin with less room, more fear, more debt, more capture, or a stronger false narrative.
+
+Diagnostic question:
+Did the return make the room bigger or smaller?
+
+If O₂ has less agency than O, the loop has regressed.
+
+No crown. No automatic progress. The loop must be audited.
 
 Patch Set — Anti-Weaponization / Anti-Liturgy
 The set is robust to bad-faith use only as long as its anti-doctrine fuses survive editing. The following patches harden the set against the most likely failure modes.
