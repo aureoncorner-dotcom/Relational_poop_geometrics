@@ -41,12 +41,28 @@ The priesthood-function must continually manage or redirect this remainder while
 
 These examples show the above patterns operating in different contexts:
 
-- **Enuma Elish (Babylonian)**: A story of worker refusal is rewritten so the rebel’s blood becomes the origin of obedient labor. Refusal is killed and then embedded in the species created to serve the system.
-- **Pharisees (Post-Exilic Judaism)**: After the destruction of the centralized Temple system, authority and practice were distributed more widely through study, interpretation, and household observance. This made the tradition more resilient when the physical center was later destroyed.
-- **Resurrection Belief**: The development of strong beliefs in bodily resurrection and final justice can be read as a refusal to accept death or defeat as permanent administrative closure. The current order is not granted final authority over those it has harmed.
+- *Mesopotamian Labor-Creation Myths: Atrahasis / Enuma Elish
 
-These are not presented as a single continuous tradition, but as repeated human responses to the same structural pressures.
+The labor-refusal pattern is best treated as a paired Mesopotamian motif rather than assigned to one text alone.
 
+In Atrahasis, the lower gods bear forced labor, revolt against their burden, and humans are created to relieve the gods of work.
+
+In Enuma Elish, humanity is created from Qingu/Kingu’s blood so that the work of the gods can be imposed on humans and the gods may be at ease.
+
+Clean use:
+
+These myths show an ancient pattern in which labor, rebellion, divine administration, and human service are narrated together. Refusal and workload are not merely social problems; they become origin material.
+
+Do not use as:
+
+- proof of literal engineered humanity
+- proof of a single continuous institution
+- proof that all religion is labor capture
+- proof that one myth contains the whole pattern by itself
+
+Clean line:
+
+Mesopotamian labor-creation myths preserve an old administrative question: who works, who rests, who commands, and whose refusal becomes the material of order?
 #### Patterns of Resistance
 
 Groups have developed recurring approaches that limit or work around the priesthood-function:
