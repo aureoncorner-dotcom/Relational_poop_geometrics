@@ -4,7 +4,7 @@ THE 2026 WOBBLE DIAGNOSTIC
 A Conditional Stress-Test Framework for Late-2026 Institutional Density
 
 
-Version: 2.1 — May 2026
+Version: 2.2 — May 2026 (minor add june 27th, 2026))
 
 Status: Working diagnostic tool
 
