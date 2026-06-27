@@ -940,6 +940,209 @@ This loop is monitored qualitatively as much as quantitatively.
 
 Its primary function is to remind the analyst that visible stability may overstate substrate health.
 
+LOOP F - DEEP TIER: SHADOW / EMBODIED DEPLETION
+Sub-tier of Loop F - Adaptive Depletion
+Not a new loop.
+
+
+Premise:
+Loop F's standard indicators stop at the edge of the legitimate economy:
+doubled-up housing, deferred care, gig intensification, family transfers,
+dropped insurance, deferred maintenance, retirement withdrawals, and
+childcare substitution.
+
+
+These are the legal survival toolkit.
+
+
+Adaptive depletion does not stop at that edge.
+
+
+When the legal toolkit is exhausted, absorption can continue into shadow
+survival economies: illicit drug supply and use, survival sex work,
+underground or unlicensed cosmetic/medical procedures, and other embodied
+informal markets.
+
+
+This tier tracks the deeper stratum where household depletion is no longer
+paid only in money, credit, time, or paperwork. It begins to be paid in the
+body.
+
+
+Flow:
+
+
+Legal adaptation toolkit exhausted
+|
+v
+Absorption continues into shadow survival economies
+|
+v
+Adjustment relocates into a body-denominated hidden price:
+- drug purity / adulteration / cut
+- condomless premium / coercive risk premium
+- material substitution in unlicensed procedures
+|
+v
+Cost is paid in health, not in visible price or visible default
+|
+v
+Standard indicators stay muted while harm accrues in bodies
+|
+v
+Harm surfaces late as injury, overdose, disease, or death
+|
+v
+Confirms depletion was already deep
+
+
+Failure mode:
+Embodied Absorption / Shadow Depletion
+
+
+Signature:
+
+
+
+
+
+
+Body-denominated hidden price
+The visible price may hold while the risk dimension absorbs the adjustment.
+The same mechanism appears across fields: drug adulteration, condomless
+premium, unsafe procedural materials, or informal care substitution.
+The headline number stays quiet. The flesh pays the difference.
+
+
+
+
+
+
+Economically pressured shadow-entry signal
+Entry into shadow survival work can function as a rung-collapse signal when
+it coincides with worsening Band 1-2 stress. But shadow markets have many
+independent drivers and cannot be read as clean macro indicators.
+
+
+
+
+
+
+Embodied harm as depth gauge
+Rising body-denominated harm is a late reading. It suggests absorption has
+already been running before it became visible.
+
+
+
+
+
+
+Possible qualitative indicators:
+
+
+
+
+polysubstance / adulteration share in overdose and drug-checking data
+
+
+purity-adjusted drug harm, not nominal street price
+
+
+unlicensed-procedure injury and death reports
+
+
+survival sex-work entry indicators where measurable
+
+
+demographic overlap across multiple shadow fields
+
+
+
+
+Status:
+Background / qualitative texture only.
+Structurally lagged.
+Heavily confounded.
+Never dashboard-grade.
+
+
+Use:
+Only as corroboration when Band 1-2 depletion is already visible.
+
+
+Discipline rules:
+
+
+
+
+This tier never touches the dashboard.
+
+
+This tier never triggers thresholds.
+
+
+This tier never drives scenario logic.
+
+
+It is coincident texture, not clean transmission.
+
+
+It is late-confirmation, not early-warning.
+
+
+It is a sensitivity modifier, not proof.
+
+
+
+
+Confounders:
+Shadow-economy trends may be driven by:
+
+
+
+
+supply-side drug economics
+
+
+synthetic-opioid potency
+
+
+cultural or aesthetic demand
+
+
+platform effects
+
+
+policy shifts
+
+
+enforcement changes
+
+
+migration patterns
+
+
+treatment access
+
+
+stigma and access barriers
+
+
+
+
+Falsification / weakening path:
+This tier weakens as a substrate signal if shadow-economy harm trends track
+better with supply-side, cultural, policy, or enforcement drivers than with
+Band 1-2 household deterioration.
+
+
+If shadow harm rises while substrate indicators are flat or improving,
+treat it as non-substrate. Do not attribute it to the wobble.
+
+
+Core line:
+When the body starts paying the price the budget can't, the absorption is
+already old.
 
 
 Loop G — Insurance / Property-Tax Fixed-Cost Ratchet
