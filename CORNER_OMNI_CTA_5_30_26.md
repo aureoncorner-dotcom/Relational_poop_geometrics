@@ -109,22 +109,25 @@ The set is robust to bad-faith use only as long as its anti-doctrine fuses survi
 The formula C ∝ O × R × S × T describes fragility, not moral worth.
 It is a prompt for care, not a score of legitimacy.
 Without this, diagnostic vocabulary becomes a grading rubric. Some office goblin starts saying, “your R coefficient is low, therefore your group is illegitimate.” Into the trash chute with that.
-2. ZPR Practical Patch
+
+Read this order-of-magnitude, not measured. The × carries one claim: no term compensates for another's collapse — a strong O can't drag a dead S back to life. The ∝ names no constant on purpose; there's no scale here to compute. If you reached for a calculator, you misread it. Put it down.
+
+3. ZPR Practical Patch
 ZPR is the target condition, not a purity claim.
 Human rooms may carry residue, pressure, awkwardness, fatigue, or history.
 The test is whether the room can notice and reduce coercion without turning the noticing into control.
 Without this, ZPR becomes a gate. Anyone can disqualify any room by pointing at residual fatigue or unspoken obligation. The condition has to stay aspirational and operational at once.
-3. CTA-Core Stamp Patch
+4. CTA-Core Stamp Patch
 Stamps are handles, not vows.
 They compress use; they do not replace judgment.
 If a stamp starts behaving like a creed, drop it.
 Belongs near the beginning of CTA-Core, before the stamps start accumulating.
-4. CTA-Core Universal Stop-Condition Patch
+5. CTA-Core Universal Stop-Condition Patch
 Every layer carries its own stop condition.
 No layer is exempt.
 If you find a layer without one, you have found drift.
 Lets the repetition of stop conditions across CTA-Core’s layers be intentional master-fuse design rather than accidental redundancy.
-5. Prime Nuttes Preservation Clause
+6. Prime Nuttes Preservation Clause
 Do not professionalize the Nuttes.
 Their stupidity is structural.
 The dumbness is the anti-cathedral reagent. It keeps the whole set from putting on robes. This is a joke. It is also dead serious.
