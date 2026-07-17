@@ -388,7 +388,7 @@ Coherence is multiplicative.
 
 A strong term does not erase collapse in another term.
 
-
+Read this order-of-magnitude, not measured. The × carries one claim: no term compensates for another's collapse — a strong O can't drag a dead S back to life. The ∝ names no constant on purpose; there's no scale here to compute. If you reached for a calculator, you misread it. Put it down.
 ---
 
 Mediation Rule
