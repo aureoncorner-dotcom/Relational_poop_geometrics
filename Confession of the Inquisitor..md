@@ -1168,4 +1168,4 @@ The Journey of the uncircumcised Frenchman the patterned monkey who became the c
   
   
 
-three keys one family no Crown no chains we build from the corner sovereignty arises at origin not from hierarchy respect people repair systems.
+three keys one family no Crown no chains we build from the corner out. sovereignty arises at origin not from hierarchy respect people repair systems.
