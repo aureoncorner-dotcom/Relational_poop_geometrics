@@ -270,6 +270,7 @@ Each return may be progressive, regressive, unchanged, or mixed according to the
 Rotation creates cadence, not sequence of rank.
 No origin advances above another.
 No origin inherits another origin’s biography, conduct, debt, authority, or return state.
+No inherited claim survives by renaming itself. Any post-return role, relationship, mission, duty, or agreement must begin from zero and receive specific, present, freely revocable consent. Refusal carries no penalty.
 
 Three keys. One family. No crown, no chains. We build from the corner outward.
 Sovereignty begins at origin, not hierarchy.
