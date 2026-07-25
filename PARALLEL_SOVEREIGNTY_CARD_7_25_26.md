@@ -244,15 +244,36 @@ Relation does not create ownership.
 Rotation does not create authority.
 
 Parallel origins.
-Shared room.
-Clean return: O → R → S → T → S′ → R′ → O₂′.
-O₂ → R → S → T → S′ → R′ → O₃, rotation comtinues, new O level moves up or down. May be a regressive or progressive rotation.
+Rotation Over Time (Loop Sequence)
 
-No crown.
-No chains.
-Build from the corner outward.
+Clean return across rotations:
 
-bloop. 💩
+Pass N — O₁ initiates:
+
+O₁ → R → S → T → S′ → R′ → O₁′
+
+Pass N+1 — initiating role rotates to O₂:
+
+O₂ → R → S → T → S′ → R′ → O₂′
+
+Pass N+2 — initiating role rotates to O₃:
+
+O₃ → R → S → T → S′ → R′ → O₃′
+
+Rotation changes which parallel origin occupies the initiating role. It does not transform one origin into another.
+
+The subscript identifies the parallel origin.
+The prime records that origin’s return depth.
+
+Each return may be progressive, regressive, unchanged, or mixed according to the room condition.
+
+Rotation creates cadence, not sequence of rank.
+No origin advances above another.
+No origin inherits another origin’s biography, conduct, debt, authority, or return state.
+
+Three keys. One family. No crown, no chains. We build from the corner outward.
+Sovereignty begins at origin, not hierarchy.
+Respect people. Repair systems.
+Calisse de tabarnak. 💩
 
 ---
-
