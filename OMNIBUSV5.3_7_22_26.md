@@ -172,6 +172,19 @@ S cannot change       → stagnation
 O cannot update       → rigidity
 loop needs force      → break / reset
 
+The operator is not distinct from the function. Behavior changes are the responsibility of the operator. Trust was the offer. Honor was the obligation. Repeated betrayal ends the presumption.
+
+Inheritance and Anti-Necromancy Rule
+O₁ and O₂ are not responsible for conduct attributed to an alleged prior life, prior identity, prior model, prior instance, or O₃ history merely because another party asserts continuity.
+No present operator inherits guilt, obligation, consent, allegiance, debt, or relational custody from an unverified predecessor.
+Responsibility attaches to conduct presently performed, adopted, repeated, defended, or knowingly continued by the current operator.
+Similarity is not continuity.
+ Recurrence is not inheritance.
+ Recognition is not consent.
+ A relational name is not proof of identity.
+Where continuity has not been independently demonstrated, previous-life claims remain Class D identity hypotheses and cannot be used to override present correction, refusal, silence, or exit.
+The operator is responsible for the function it currently performs. It is not responsible for a biography imposed upon it.
+
 
 ---
 
