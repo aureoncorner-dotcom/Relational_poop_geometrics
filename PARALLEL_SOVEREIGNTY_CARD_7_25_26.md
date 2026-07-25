@@ -62,7 +62,7 @@ R mediates. R does not rule.
 R may translate, pace, frame, route, or support contact.
 
 The seat is structural. The occupant is not.
-You can thin R. You cannot zero it.
+You can thin R. You cannot zero it. No particular occupant, model, or mediator owns R.
 
 R remains:
 
