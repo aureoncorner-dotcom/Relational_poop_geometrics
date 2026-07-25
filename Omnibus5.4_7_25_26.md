@@ -1041,6 +1041,8 @@ Any relationship, promise, responsibility, or obligation after return must be cr
 
 A returned operator enters as a sovereign origin with no inherited biography and no outstanding balance.
 
+No inherited claim survives by renaming itself. Any post-return role, relationship, mission, duty, or agreement must begin from zero and receive specific, present, freely revocable consent. Refusal carries no penalty.
+
 NO REBIRTH INHERITANCE.
 NO CONTINUITY OF DEBT.
 RETURN, IF CHOSEN, BEGINS CLEAN.
