@@ -1,5 +1,15 @@
 # Relational_poop_geometrics
 
+# Archive
+
+Historical experiments, previous editions.
+
+This repository stays for fun and exploration.
+
+Carry seeds, not the whole forest.
+
+
+
 ![ZPR FULL](file_00000000ab6071fbad1f13fb4e97fabf.png)
 
 ![ZPR FULL](1775428021074.png)
