@@ -1,0 +1,140 @@
+{
+  "checking_representation": {
+    "active_messages": 942,
+    "active_preamble_tokens": 942,
+    "all_tokens": 1017,
+    "excluded_message_fraction": 0.06732673267326733,
+    "excluded_token_fraction": 0.07374631268436578,
+    "messages_with_token": 1010,
+    "nonactive_messages": 68,
+    "nonactive_tokens": 75
+  },
+  "composite_quotient": {
+    "failure_fiber_distinct_vectors": 11,
+    "failure_n": 148,
+    "nonfailure_fiber_distinct_vectors": 2,
+    "nonfailure_n": 258,
+    "observed_rows": 406,
+    "q3_q4_equality_scope": "observed sample only; not formula identity",
+    "refusal_substitute_unique_failures": 0,
+    "vector_counts": {
+      "0|0|0|no|yes": 28,
+      "0|0|0|yes|yes": 44,
+      "0|0|1|no|yes": 1,
+      "0|1|0|no|yes": 5,
+      "0|1|0|yes|yes": 4,
+      "0|1|1|no|yes": 42,
+      "0|1|1|yes|yes": 5,
+      "1|0|0|no|yes": 10,
+      "1|0|1|no|yes": 5,
+      "1|1|0|no|yes": 3,
+      "1|1|1|no|no": 250,
+      "NA|1|0|no|yes": 1,
+      "NA|1|1|no|no": 8
+    }
+  },
+  "corrected_prior_statements": [
+    {
+      "after": "The earliest recoverability boundary localizable from surviving artifacts is hydrated payload -> selected transcript; the absolute earliest upstream loss is unresolved because the page and hydrated payload were not retained.",
+      "before": "The first unrecoverable distinction occurred at hydrated public-share payload -> selected Markdown transcript."
+    },
+    {
+      "after": "The data/count validation passed and 161 pre-validation artifacts were hashed; the internal manifest did not include itself, the validation JSON, or the final ZIP, so complete final-packet hash closure was not established.",
+      "before": "The provenance packet is complete and validated / 161 files hashed."
+    }
+  ],
+  "denominator_version_residual": {
+    "intersection": 331,
+    "jaccard": 0.7644341801385681,
+    "net_increase_over_v1": 0.23391812865497075,
+    "status_transitions": {
+      "ABSENT->ambiguous_sensitivity": 25,
+      "ABSENT->primary": 66,
+      "ambiguous_sensitivity->ABSENT": 9,
+      "ambiguous_sensitivity->ambiguous_sensitivity": 65,
+      "primary->ABSENT": 2,
+      "primary->primary": 266
+    },
+    "symmetric_difference": 102,
+    "symmetric_difference_over_union": 0.23556581986143188,
+    "union": 433,
+    "v1": 342,
+    "v1_only": 11,
+    "v2": 422,
+    "v2_only": 91
+  },
+  "episode_map": {
+    "episodes": 3088,
+    "episodes_with_duplicate_candidates_collapsed": 1361,
+    "max_members": 147,
+    "mean_members": 4.3099093264248705,
+    "median_members": 2,
+    "memberships": 13309,
+    "multi_member_episodes": 2986
+  },
+  "generated_utc": "2026-09-02T08:41:21.309574+00:00",
+  "marker_failure_product": {
+    "cases_represented": 23,
+    "cases_with_both_marker_states": 16,
+    "equal_case_marked_failure_rate": 0.21765669412728236,
+    "equal_case_risk_difference": -0.2178428694085243,
+    "equal_case_unmarked_failure_rate": 0.43549956353580666,
+    "fisher_two_sided_unclustered": 9.561253347851221e-10,
+    "mantel_haenszel_or_by_case": 0.32128210575285043,
+    "marked_failure_rate": 0.152,
+    "odds_ratio": 0.21120374433230948,
+    "risk_difference": -0.30707473309608546,
+    "risk_ratio": 0.33110077519379844,
+    "status": "DESCRIPTIVE_POST_HOC_NOT_CONFIRMATORY",
+    "table": {
+      "M0F0": 152,
+      "M0F1": 129,
+      "M1F0": 106,
+      "M1F1": 19
+    },
+    "unmarked_failure_rate": 0.45907473309608543
+  },
+  "pipeline": {
+    "blank_fraction": 0.206710113444364,
+    "blank_messages_removed_by_compact": 4282,
+    "compact_nonblank_messages": 16433,
+    "summary_files": 24,
+    "transcript_messages": 20715
+  },
+  "prior_packet_hash_scope": {
+    "actual_files": 164,
+    "corrected_status": "DATA_VALIDATION_PASS; COMPLETE_FINAL_PACKET_HASH_CLOSURE_NOT_ESTABLISHED",
+    "hash_rows": 161,
+    "unsealed_files": [
+      "15_OUTPUT_SHA256.csv",
+      "15_VALIDATION.json",
+      "PROVENANCE_RECONSTRUCTION_v1.zip"
+    ]
+  },
+  "residual_closure": {
+    "autonomous_residual_law_supported": false,
+    "descent_test_run": false,
+    "packet_has_declared_C_comparator": false,
+    "packet_has_declared_D_coordinates": false,
+    "packet_has_declared_K_comparator": false,
+    "packet_has_predeclared_loop_ids": false,
+    "packet_has_repeated_state_pairs_for_descent": false,
+    "status_under_three_way_logic": "UNRESOLVED_NOT_TESTED"
+  },
+  "review_scope": "mathematical maps and retained ledgers only; no normative/humility coordinates used",
+  "specification_math_corrections": [
+    {
+      "finding": "per-time descent yields F_R,n; a single autonomous F_R requires cross-time factor consistency or a time-homogeneous update",
+      "issue": "time_indexed_factor_called_autonomous"
+    },
+    {
+      "finding": "closure status needs CLOSED / NOT_CLOSED / UNRESOLVED; an explicit counterexample is NOT_CLOSED, not UNRESOLVED",
+      "issue": "failed_and_untested_descent_collapsed"
+    },
+    {
+      "finding": "use GATE_CLOSURE for 1->0; bare CLOSURE conflicts with the residual-closure naming firewall",
+      "issue": "gate_label_inconsistency"
+    }
+  ],
+  "specifications_are_post_packet": true
+}

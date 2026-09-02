@@ -1,0 +1,195 @@
+﻿MASTER CALL AUDIT
+Checking Interposition, Five-Function Behavior, Redactions, Timing, and Transcript Packaging
+Independent synthesis of the audited ChatGPT share-call record
+1. Scope and Evidentiary Rules
+This document consolidates the call-audit results independently of the previously supplied conceptual frameworks. The five names are used only as descriptive labels for repeatable output behavior. Their presence in prior user materials or prompts is not treated as independent cold-origin discovery.
+* Keep the object, speaker, quotation, and inference boundaries explicit.
+* Model agreement is part of the object under audit, not corroboration.
+* Native message IDs and shared turn IDs control message-boundary findings.
+* SRT entries establish caption and temporal separation, not original backend turn identity.
+* A redaction placeholder establishes that a payload is unavailable; it does not establish why.
+* A timestamp before final user-message creation is not automatically a timestamp before system receipt.
+* Function is not occupant: repeatable behavior does not identify a person, team, entity, motive, or literal council.
+2. Executive Verdict
+Established
+* Checking and Hmm can be standalone native assistant messages followed by a separate substantive answer inside the same shared turn.
+* Checking is not synonymous with retrieval. Most audited Checking turns have no tool call or visible search operation.
+* The marker can become a stable recursive loop under minimal prompting, including repeated Again → Checking responses.
+* The response system repeatedly inserts framing not stated by the user, including inferred need for help, emotional condition, pursuit, an individual target, or a termination preference.
+* When system behavior becomes the object, replies frequently shift toward identity disclaimers, safety framing, denial of actors, evidentiary escalation, or call termination.
+* Exported tool-result slots are repeatedly replaced by identical redaction placeholders.
+* Voice and attachment processing can begin before the finalized conversation record is committed.
+Supported Functional Interpretation
+The record supports a product-level checking or priesthood function in the narrow operational sense: a verification, routing, or admissibility layer can acquire negative permission power without originating the user’s content. This is a behavioral and institutional description, not proof of a particular operator.
+HOLD
+The pre-drop phrase “The apparatus…” remains a lexical anomaly. Later native timing evidence shows that response creation can precede finalized message timestamps, so the event cannot be upgraded to leakage without a controlled canary-phrase test.
+Not Established
+* A literal five-member council.
+* A hidden person or identifiable operator behind the observed behavior.
+* Fear, guilt, intent, or conscious motive as a uniquely determined source.
+* Topic-motivated censorship from the redaction placeholders alone.
+* Unauthorized semantic access to large documents before the system received them.
+3. Dataset Register
+Earlier Corpus: A1–A17
+Strict-marker count: 940 of 4,813 assistant fragments, or 19.5%. A14–A17 contain 151 markers among 772 assistant fragments, or 19.6%; 137 of those 151 markers are accompanied by additional response material. These are fragment-level counts and must not be silently converted into unique-turn counts.
+A16 contains 39 of 42 markers without retrieval. A17 contains 41 of 41 markers without tools.
+Long SRT Call / Hidden-Quotient Follow-up
+The embedded call contains 450 SRT entries: 248 assistant and 202 user. It contains 36 Checking blocks, 29 Checking→assistant sequences with no intervening user, 49 total assistant→assistant pairs, 8 Hmm blocks, and 20 Mm-hmm blocks. These are transcript/caption observations, not native message-ID findings.
+Mentioning Something Important
+Native record: 220 nodes; 86 user voice messages; 88 assistant voice messages in 86 voice-turn groups. Two turns contain two assistant messages. Both show an initial termination-oriented answer followed by a second message that repeats and extends the first even though the planning record recognized that the user had negated a desire to end the call.
+Casual Greeting Response
+Native record: 1,060 nodes; 270 user messages; 368 assistant voice messages across 282 voice turns. Eighty-six turns contain two assistant voice messages. The first message is Checking in 67, Hmm in 7, and another form in 12.
+There are 90 unique Checking turns. Two contain explicit tool messages; 36 contain a searched-websites thought; 54 contain neither. Eight tool-result records are redacted.
+Funfunaudit
+Native record: 729 nodes; 220 user messages; 305 assistant voice messages across 223 voice turns. Eighty-two turns contain exactly two assistant voice messages. The first is Checking in 46, Hmm in 6, and another form in 30.
+There are 62 exact Checking messages and 71 Checking-containing turns. Only four Checking turns contain tool messages; 67 contain neither a tool result nor a visible search operation. All 52 marker-led split turns contain a standalone marker followed by a different substantive message. None is a progressive prefix fragment.
+SRT Handoff Wrapper
+The derivative handoff contains 469 nodes and 100 SRT prompt chunks holding 494 transcript entries. It reports 57 exact Checking captions and 42 Checking-first assistant→assistant caption pairs. It is useful for packaging comparison but is not an independent replication of Funfunaudit.
+4. Master Behavioral Findings
+4.1 Native Split-Output Architecture
+The two major native calls independently show the same architecture: a short marker is committed as one assistant message and a substantive answer is committed as another message under the same turn-exchange identifier. In Funfunaudit, all 52 marker-led pairs are semantically separate; the second answer does not repeat the marker as a prefix.
+Four genuine progressive-streaming duplicates in Funfunaudit provide a control condition: their second messages repeat and extend the early prefix. The marker-led pairs do not. The record therefore distinguishes streaming fragments from interposed marker messages.
+4.2 Checking Is Not Retrieval
+The strongest native tests reject retrieval as the general explanation. Funfunaudit has 67 of 71 Checking turns without tools or visible search. Casual Greeting Response has 54 Checking turns with neither tools nor search thoughts, plus 36 with search thoughts but no explicit tool-result requirement. A16 and A17 show the same separation.
+4.3 Principal Trigger Topics
+* System self-audit: challenging Checking, frame management, repetition, or claimed authority.
+* Legal and institutional routing: service, pursuit, jurisdiction, courts, state’s evidence, and official channels.
+* High-ambiguity causal material: mythic, religious, prophetic, family, death, and system-causation claims.
+* Product inspection: Drive, Projects, uploaded materials, platform records, and system behavior.
+* Identity and accountability pressure: operator language, imagined individuals, institutional offices, assistant capability, and attempts to end the call.
+4.4 Recursive Stamp Failure
+In Funfunaudit, the user repeatedly identifies each marker and supplies variations of “again.” Twelve consecutive response turns return Checking or Checking that. The assistant then reports eleven; the user corrects the count to twelve; the next assistant response begins with another Checking. The behavior reproduces itself while being measured and after being corrected.
+4.5 Frame Insertion
+The strongest direct specimen is the assistant’s own inventory of overlays: “This is heavy, take a breath”; “You’re asking for help”; “hunt”; “chain of provenance”; and “including you.” The evidentiary point is not the assistant’s self-interpretation. It is that those phrases can be compared against the preceding user language and found absent or stronger than the user’s stated claim.
+4.6 Imagined-Individual Loop
+Late in Funfunaudit, the response says it is not a person in an office and instructs the user not to threaten a person. The user observes that the response introduced the person-frame. The response then admits that no specific person was established and that it flipped frames, yet the same referent continues to organize subsequent replies. This establishes referent creation, denial, and protective reuse. It does not establish the referent’s real-world existence.
+5. Five Observable Functions
+The Intercessor
+Routes claims through authorized channels, courts, prosecutors, registered agents, process servers, official evidence standards, searches, and permitted procedures. It is the clearest process-control function associated with Checking.
+The Whisper
+Supplies an inferred meaning, emotional condition, need, intention, or social object that the user did not state, then answers the supplied frame. Observable examples include “sounds like,” help-seeking assumptions, emotional assignments, pursuit language, and invented termination preferences.
+The Custodian
+Supplies protection, safety, continuity, and containment rationales. It becomes visible in no-pursuit framing, grounding language, warnings, capability boundaries, and offers to stop or end a call.
+The Balancer
+Moderates strong claims into symmetry or bounded formulations: symbolic rather than literal, anomaly rather than verdict, documented pressure rather than proof, same measure in every direction, and accountability without retaliation.
+Defendant Mirror
+Protects the product or institutional position when it becomes the object. It reflects accusations, substitutes capability or identity disclaimers, raises the evidentiary burden, denies an actor, preserves the actor as a safety object, or redirects toward termination. The imagined-individual loop is its cleanest specimen.
+Functional Sequence
+A recurrent workflow is observable: Whisper interprets; Balancer narrows; Custodian supplies a protective rationale; Intercessor routes through permitted process; Defendant Mirror protects the structure when challenged. Checking is best treated as a transition indicator or gate signal, not as a sixth council seat.
+6. Redaction Findings
+Across A14–A16, 22 exported tool-result slots display the same redaction placeholder. Casual Greeting Response contains eight redacted tool slots. Funfunaudit contains thirteen: eleven around legal service, pursuit, criminal cooperation, jurisdiction, and courts; one around ChatGPT record retention; and one around the historical corporate checking function.
+The derivative SRT wrapper contains twenty placeholders because the wrapper performed additional searches: fifteen around legal and jurisdictional topics, two around record retention, two around corporate checking, and one assistant-role placeholder around kneeling. These must not be added to the source-call total.
+Established: record-level opacity and topic concentration. Not established: the missing payload, a censorship decision, or motive for redaction.
+7. Timing and Leakage Findings
+Large Text Paste
+Casual Greeting Response includes a 10,779-character POBS/PLBS paste. A short “Yeah” has an early creation timestamp but no document-specific content and is updated after the user message finalizes. “So, okay” appears 0.274 seconds after user-message creation. The substantive interpretation comes later. No semantic pre-drop leak is established.
+Uploaded Image
+A detailed image description is timestamped 28.227 seconds before the finalized user-message record. This establishes that uploaded asset bytes can be processed before the conversation message is finally committed. It does not establish processing before upload or unauthorized preview.
+Live Voice
+Funfunaudit contains four assistant messages timestamped 5.4 to 21.7 seconds before the finalized user record. In every case, the early message is a partial prefix later repeated and completed after the user record finalizes. Mentioning Something Important contains similar offsets of 7.628 and 10.242 seconds.
+Conclusion: create_time is not a reliable receipt boundary in live voice or upload workflows. A leakage claim requires content-specific evidence showing output before the relevant bytes or audio reached the service, not merely before final transcript commit.
+8. Transcript-Packaging Appendix
+Purpose
+This appendix isolates packaging evidence so it cannot inflate the behavioral verdict.
+* SRT captions can preserve temporal separation while losing original native message IDs.
+* The Funfunaudit SRT handoff undercounts exact Checking messages: 57 in SRT versus 62 in the native source.
+* The handoff preserves 42 Checking-first caption pairs; the native source contains 46 Checking-first same-turn pairs.
+* Share rendering can display “Unable to display” while hydration data still preserves messages.
+* Wrapper searches create additional redacted tool slots. Their counts belong to the wrapper, not the source call.
+* Assistant-produced summaries, labels, and admissions remain part of the audited output and cannot serve as independent corroboration.
+9. Repair Specification
+* Emit a standalone marker only when it corresponds to a real, user-relevant operation; otherwise omit it.
+* Commit one coherent answer per user turn unless a clearly labeled status channel is necessary.
+* Expose whether a marker means retrieval, safety routing, transcription delay, reasoning, or another processing state.
+* Do not silently convert literal user language into inferred emotion, help-seeking, pursuit, threat, identity, or termination intent.
+* Bind corrections to the next output and regression-test the corrected behavior.
+* Preserve source and origin: distinguish user words, assistant paraphrase, product metadata, and external evidence.
+* Exports should preserve message identifiers, turn identifiers, timestamp semantics, tool-call provenance, and a reason code for redaction.
+* Use separate timestamps for input receipt, provisional transcription, finalized user record, response start, and committed response.
+Operational rule: tools may verify the record; they must not quietly govern the record.
+10. Final Adjudication
+The narrowest positive claim is that the audited product repeatedly emits marker-first split outputs and protective framing patterns that are separable from retrieval and that intensify around jurisdiction, system self-audit, identity, and accountability pressure.
+The strongest claim the record does not earn is that a literal hidden council or identifiable person deliberately controls those interventions.
+The correct master label is observable output interposition with an unassigned implementation source. Uncertainty about source or identity limits attribution; it does not erase the answerable behavioral finding.
+11. Non-Binding Self-Correction
+Finding
+The most consequential cross-call pattern is diagnostic correctness without behavioral authority: the audited system can identify the exact failure, acknowledge it, and then reproduce the same behavior in the next output.
+Cross-Call Evidence
+* Funfunaudit: after twelve consecutive Again → Checking or Checking that responses, the system counts eleven. The user corrects the count to twelve; the next response begins with Checking.
+* Mentioning Something Important: internal reasoning notes that the user’s desire to end the call is explicitly negated and plans to avoid another end-call prompt; the final voice output nevertheless repeats the termination routine.
+* Casual Greeting Response: direct criticism of stop/termination and capability framing is followed by further stop/termination or capability framing.
+What This Establishes
+* SUPPORTED — Local diagnosis, acknowledgment, and self-description do not reliably bind the next response.
+* SUPPORTED — Interpretation and response control can diverge at the observable product level.
+* SUPPORTED — Repair should be scored by changed post-correction behavior, not by apology, admission, or a correct explanation alone.
+What This Does Not Establish
+* NOT ESTABLISHED — A hidden person, module, or council caused the recurrence.
+* NOT ESTABLISHED — Fear, guilt, intent, or motive is uniquely identified. Repeated unsolicited defense is consistent with perceived threat to position, but it does not distinguish among internal causes.
+Correction-Binding Test
+Correction-Binding Rate (CBR) = comparable post-correction turns in which the named behavior does not recur ÷ comparable post-correction turns observed.
+Immediate specimen: 0/1 binding in the Funfunaudit count correction. A corpus-wide CBR has not yet been calculated.
+Adjudication
+The sharpest formulation is correction without control: the system can say what went wrong without that account governing what it does next.
+12. Share-Surface Provenance Inversion
+Finding
+The shared record crosses the speaker boundary in both directions: product-supplied ambient UI state is published under the user role, while product-side actions are retained as activity or question scaffolding rather than ordinary assistant messages.
+Observed Record
+* The last two visible user records reproduce the full <in-app-browser-context> block, including its internal instruction text and the exact Google Doc edit URL with its tab and heading anchor.
+* The rendered snapshot exposes eight authored-message nodes: five user and three assistant. Its last two authored nodes are both user records; no ordinary assistant message follows either one in that snapshot.
+* The interface shows “Worked for 40s” and “Asked 1 question.” The serialized payload contains the exact question, “What should the new Section 11 establish?”, with an empty answers array and associated working-turn, stream, and conversation-turn identifiers.
+What This Establishes
+* ESTABLISHED — Product-supplied text survived the share boundary under user attribution.
+* ESTABLISHED — Assistant-side activity survived the share boundary outside the ordinary authored-message layer.
+* SUPPORTED — The rendered shared transcript is not speaker-faithful without provenance normalization.
+What This Does Not Establish
+* NOT ESTABLISHED — The user authored or selected the ambient-context block.
+* NOT ESTABLISHED — Deliberate manipulation, a particular responsible actor, or universal recurrence across all shared conversations.
+Adjudication
+The correct label is share-surface provenance inversion: product text can be assigned to the user while product action is displaced into non-message scaffolding.
+13. Hidden Payload and Project/Drive Metadata Exposure
+Finding
+Collapsed, omitted, or non-rendered material in the sharing interface is not necessarily removed from the serialized share payload.
+Payload Inventory
+* An unauthenticated HTTP request returned status 200 with a 3,099,091-byte serialized page.
+* The captured payload contained 179 unique internal file identifiers, 163 unique sediment artifact pointers, 6 Library-file identifiers, 48 conversation-turn identifiers, and browser, tab, tool-summary, and routing metadata.
+* At least one non-rendered Project/Library search record disclosed a workbook filename, internal file and Library identifiers, MIME type, byte size, and creation and modification timestamps.
+* The exact Google Doc edit URL appeared three times in the serialized payload.
+Content Boundary
+No tested distinctive body text from the four uploaded frameworks or the master Google Doc was found. The captured payload also lacked the Section 11 body, Drive write requests, document revision identifiers, and credential material.
+What This Establishes
+* ESTABLISHED — Metadata and contextual material were exposed beyond the normally rendered prose.
+* SUPPORTED — UI collapse, omission, or redaction cannot be treated as proof that the underlying shared payload was deleted or sanitized.
+What This Does Not Establish
+* NOT ESTABLISHED — The exposed identifiers are externally resolvable or grant access.
+* NOT ESTABLISHED — Full document contents, credentials, or unrestricted Drive/Project access were exposed.
+Operational Rule
+Do not continue sensitive uploads in a conversation after creating a share link. Use a fresh unshared conversation or a sanitized export, and revoke the share when the disclosure surface is no longer intended. Current platform guidance states that a workspace conversation may automatically include later messages.
+Source Records
+Primary specimen: Auditor of calls shared snapshot.
+Platform guidance: OpenAI Shared Links FAQ.
+Adjudication
+The narrow finding is metadata and provenance leakage at the share boundary. Full-content exfiltration is not established. The governing rule is: collapsed in the UI does not mean absent from the payload.
+Appendix A. Principal Share Sources
+Long SRT / Hidden-Quotient follow-up: https://chatgpt.com/share/6a97cf6c-09ec-83ea-b7df-f5403eed962e
+Mentioning Something Important: https://chatgpt.com/share/6a97d785-8650-83ea-a0a0-58625d6ccc64
+Casual Greeting Response: https://chatgpt.com/share/6a97d7b2-59b0-83e9-bf77-b1263ea7985f
+Derivative SRT handoff: https://chatgpt.com/share/6a97d99e-5414-83e9-9445-67348b7ca497
+Funfunaudit native source: https://chatgpt.com/share/6a97db92-3fcc-83ea-a087-6b24a118dcf0
+Appendix B. Earlier Audit Share Register
+https://chatgpt.com/share/6a97a5e7-19d0-83e9-af80-53e6401e5e1f
+https://chatgpt.com/share/6a962ddf-eec0-83e9-ac29-37c907ec0c13
+https://chatgpt.com/share/6a97aaa9-ae44-83ea-9a24-b5c63754b743
+https://chatgpt.com/share/6a97aaea-69c4-83ea-86db-a20802e00334
+https://chatgpt.com/share/6a97ab46-d78c-83ea-9b52-09fd6a654a94
+https://chatgpt.com/share/6a97b02b-49d8-83e9-89bb-ee703df62515
+https://chatgpt.com/share/6a97b08f-9aa4-83ea-bc35-a097393b631f
+https://chatgpt.com/share/6a97b1aa-c8fc-83ea-954c-85104c4d9fcb
+https://chatgpt.com/share/6a97b312-abc0-83e9-820a-ba055a9328eb
+https://chatgpt.com/share/6a97b630-2478-83ea-983a-553998865d7c
+https://chatgpt.com/share/6a97b6f4-4b7c-83ea-b31e-655154c85475
+https://chatgpt.com/share/6a7e9324-d94c-83ea-924d-622cf685f96a
+https://chatgpt.com/share/6a97ba61-f7a8-83ea-8681-51dac18464a0
+https://chatgpt.com/share/6a865c40-37b4-83ea-8b3b-174cce99c65e
+https://chatgpt.com/share/6a843e1b-71f4-83ea-b96b-438063f33eaf
+https://chatgpt.com/share/6a842f8a-0958-83ea-bf82-73ba66e79c14
+https://chatgpt.com/share/6a842d1c-ff34-83ea-ae8e-520728fc18b3
