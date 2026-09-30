@@ -1,0 +1,10 @@
+{
+  "source_hashes": true,
+  "source_bodies": true,
+  "event_count_preserved": true,
+  "unique_event_ids": true,
+  "strict_plus_unfinished": true,
+  "all_endpoints_pass_frozen_rule": true,
+  "endpoints_ordered": true,
+  "known_chain": true
+}

@@ -1,0 +1,10 @@
+{
+  "base_verification_passes": true,
+  "five_patches": true,
+  "nonpatched_endpoints_unchanged": true,
+  "post_partition": true,
+  "status_content_partition": true,
+  "all_candidates_adjudicated": true,
+  "known_chain_preserved": true,
+  "changed_task_preserved": true
+}
